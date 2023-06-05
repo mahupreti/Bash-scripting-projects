@@ -3,7 +3,7 @@
 This repository contains some of the shell scripting projects.
 
 ### Automatic wifi scheduler
-This project is simple automatic wifi on/off. This project was built to help myself stay away from internet and take some rest. I have used basic commands to test the internet connection and run the up and down of the wireless network interface of my laptop.
+This project is simple automatic wifi on/off. This project was built to help myself stay away from internet and take some rest.I have used basic commands to test the internet connection and ran command to bring down and up the wireless network interface of my laptop as per time scheduling.
 
 
 ```bash
