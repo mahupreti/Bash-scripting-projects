@@ -15,3 +15,5 @@ This project is simple automatic wifi on/off. This project was built to help mys
 00 08 * * * /path/to/my/script/file
 ```
 
+### SFTP user creation in Linus
+The bash shell scripting is used to create 25 users at once with their own home directory. The users are chrooted and jailed. Also, shell access to each user is also disabled. 
